@@ -4,18 +4,19 @@ You can use the [editor on GitHub](https://github.com/StaceyDaly/Census/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Census Data is nearly dead even
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Census 2021
+Voter Registration Data
+Male vs. Female
 
-- Bulleted
+![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151904769-98b3e82d-0c46-4e99-b2e7-7c45ba352411.png)
+
 - List
 
 1. Numbered
