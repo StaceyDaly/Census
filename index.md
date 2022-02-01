@@ -24,7 +24,7 @@ Male vs. Female
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](<![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151904769-98b3e82d-0c46-4e99-b2e7-7c45ba352411.png)/>) and ![Image](https://datawrapper.dwcdn.net/EbfZ4/3/)
+[Link](https://app.datawrapper.de/chart/EbfZ4/publish#:~:text=%3Ciframe%20title%3D%22Census%20Voting%20Data%22%20aria%2Dlabel%3D%22Bar%20Chart%22%20id%3D%22datawrapper%2Dchart%2DEbfZ4%22%20src%3D%22https%3A//datawrapper.dwcdn.net/EbfZ4/3/%22%20scrolling%3D%22no%22%20frameborder%3D%220%22%20style%3D%22border%3A%20none%3B%22%20width%3D%22600%22%20height%3D%22160%22%3E%3C/iframe%3E) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
